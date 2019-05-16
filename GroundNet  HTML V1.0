@@ -1,0 +1,21 @@
+<html>
+<title>GroundNet</title>
+<b>Welcome to GroundNet!!</b>
+<body>What is GroundNet?</body>
+<p>GroundNet is the new and improved anonimity network! We draw inspiration from Tor and I2P,  and  we love both of these tools.
+But we also have watched them be the targets of new private and government attacks. We aim to provide a new netowork that will have new tools
+and accessories. In short, we want to keep the legacy of both these programs alive.</p>
+<bodyWhat are the new tools?></body>
+<p>We plan to incorporate both Tor hidden services and I2P's eepsites into our network. But we also plan to build our own version of hidden services.
+We will include encrypted IRC and a supported crypto wallet. We plan to include our own hidden services, but we plan to accomplish this for free.
+We want to provide people with a method of hosting on our network, and this will allow us to keep any illegal activity off our network.</p>
+<b>How is this private?</b>
+<p>We will use the same encryption standards as Tor, and use the same node methods with our own twist on it. Your real IP will still be encrypted and hidden,
+just with a different protocol and sequence.</p>
+<b>How can I help?</b>
+<p>There are two ways you can help. First is by donating crypto currency to our cause. The second is by running tests against our network,
+and making us aware of any problems or bugs in our software.</p>
+
+<b>Creators of GroundNet</b>
+<header1>R3DRUM</header1>
+</html>
